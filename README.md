@@ -19,3 +19,12 @@
 </div>
 
 ##       APAIXONADO POR TECNOLOGIA! ⭐
+
+
+ <div styles=display: inline_block"><be/>
+<img align="center"alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+</div> 
+
+*  leonardodemattos059@gmail.com
+
+* leonardodemattos16@gmail.com
